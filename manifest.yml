@@ -1,0 +1,8 @@
+applications:
+- path: target/JavaHelloWorldApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: Fiap28SCJ-31451
+  host: Fiap28SCJ-31451
+  disk_quota: 1024M
